@@ -1,0 +1,30 @@
+_repo: Proposed-Roads-to-Freedom_690
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchism'
+- !lcc 'HN'
+- !lcsh 'Socialism'
+- !lcsh 'Syndicalism'
+- !lcsh 'Guild socialism'
+title: Proposed Roads to Freedom
+url: http://www.gutenberg.org/ebooks/690
