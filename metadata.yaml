@@ -1,5 +1,8 @@
 _repo: Proposed-Roads-to-Freedom_690
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Russell, Bertrand
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/355
     wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/690#Proposed-Roads-to-Freedom
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '1996-10-01'
 gutenberg_type: Text
