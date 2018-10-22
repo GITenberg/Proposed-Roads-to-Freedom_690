@@ -1,5 +1,5 @@
 _repo: Proposed-Roads-to-Freedom_690
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Socialism'
 - !lcsh 'Syndicalism'
 - !lcsh 'Guild socialism'
+- GITenberg
 title: Proposed Roads to Freedom
 url: http://www.gutenberg.org/ebooks/690
